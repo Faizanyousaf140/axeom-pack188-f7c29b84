@@ -1,6 +1,10 @@
-# Axeom Pack 188 ? Studio Desk
+# Axeom Pack 188 - Studio Desk
 
 A mobile-friendly studio dashboard for client records, payment reconciliation, edit requests, and CSV/TXT/ZIP uploads.
+
+## Live app
+
+[Open the deployed Studio Desk](https://axeompack188-f7c29b84.vercel.app/)
 
 ## Deploy with Vercel
 
